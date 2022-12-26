@@ -1,4 +1,4 @@
-[![AWS CodeBuild Deploy](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidGtwTzZSYXRtU3lFMTZPUkJySk00MVVGY2JHOExROXgzTFRPdC83QzBGVzVSTmJaenRsTEc2VXlRY0lBejYxWU9VNFg0NWZQR3FQbjIrVFVxSUdCb2NNPSIsIml2UGFyYW1ldGVyU3BlYyI6InA3WGFuUUpuQXpSN3ZHRmgiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+![AWS CodeBuild Deploy](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidGtwTzZSYXRtU3lFMTZPUkJySk00MVVGY2JHOExROXgzTFRPdC83QzBGVzVSTmJaenRsTEc2VXlRY0lBejYxWU9VNFg0NWZQR3FQbjIrVFVxSUdCb2NNPSIsIml2UGFyYW1ldGVyU3BlYyI6InA3WGFuUUpuQXpSN3ZHRmgiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 # hugo-website-demo
 This is a demo hugo CD project.
