@@ -13,6 +13,8 @@ The final step will be the set up a continuous integration pipeline using AWS Co
 Note these steps will be similar for other cloud environments or your OS X laptop, but this
 particular tutorial targets AWS Cloud9.
 
+This should auto-deploy!
+
 The steps described next appear in this screencast AWS Hugo Continuous Delivery.
 
 **Step 1: Launch an AWS Cloud9 Environment**
@@ -74,5 +76,6 @@ This post is easily editable inside of AWS Cloud9.
 **Step5: Run Hugo locally in Cloud9**
 
 ![Config TCP Port](/static/tcp-port-config-screenshot.png)
+
 
 
