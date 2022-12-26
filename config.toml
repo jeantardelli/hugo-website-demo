@@ -1,0 +1,9 @@
+baseURL = "https://cuestamucho.link/"
+languageCode = 'en-us'
+title = 'Hugo AWS CD'
+theme = "ananke"
+
+[[deployment.targets]]
+# An arbitrary name for this target
+name = "awsbucket"
+URL = "s3://cuestamucho.link/?region=us-east-1"
