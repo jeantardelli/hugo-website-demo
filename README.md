@@ -1,4 +1,8 @@
+# hugo-website-demo
+This is a demo hugo CD project.
+
 1. Download wget https://github.com/gohugoio/hugo/releases/download/v0.109.0/hugo_0.109.0_Linux-64bit.tar.gz
+
 2. Create a bin directory on AWS Cloud9
 ```
 mkdir -p ~/bin
