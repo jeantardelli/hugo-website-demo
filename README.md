@@ -1,7 +1,7 @@
 # hugo-website-demo
 This is a demo hugo CD project.
 
-You can see this running on cuestamucho.link
+You can see this running on [cuestamucho.link](http://cuestamucho.link)
 Complete tutoria here: https://www.youtube.com/watch?v=xiodvLdPnvI
 
 1. Download wget https://github.com/gohugoio/hugo/releases/download/v0.109.0/hugo_0.109.0_Linux-64bit.tar.gz
