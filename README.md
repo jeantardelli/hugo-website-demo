@@ -13,6 +13,14 @@ Complete tutoria here: https://www.youtube.com/watch?v=xiodvLdPnvI
 mkdir -p ~/bin
 ```
 
+Now put this file in your ∼/.bin directory using these commands:
+
+```
+tar xzvf hugo_<VERSION>.tar.gz
+mv ~/environment/hugo . # assuming that you download this into ~/environment
+which hugo # this shows the `path` to hugo
+```
+
 3. Check hugo is installed:
 ```
 hugo version
